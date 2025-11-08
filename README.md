@@ -43,5 +43,5 @@ The notebooks will generate a confusion matrix to visualize the model's performa
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YourUsername/roberta-mental-health-classification.git]
+git clone [https://github.com/anchalnagwanshi/roberta-mental-health-classification.git]
 cd roberta-mental-health-classification
